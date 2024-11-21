@@ -1,7 +1,7 @@
 # Site settings
 title: Longway
 SEOTitle: Longway Blog | 龙威的漫漫长路
-header-img: img/home-bg.jpg
+header-img: img/my_home.jpg
 email: longwayxu@gmail.com
 description: "挫其锐，解其纷，和其光，同其尘"
 keyword: "longway, Longway, 官人， 长路漫漫"
@@ -50,19 +50,19 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: None
+duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
 
-# # Analytics settings
-# # Baidu Analytics
-# ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
-# # Google Analytics
-# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-# ga_domain: huangxuan.me
+# Analytics settings
+# Baidu Analytics
+ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+# Google Analytics
+ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+ga_domain: huangxuan.me
 
 
 
@@ -83,7 +83,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 friends: [
     {
         title: "AiTechLab",
-        href: "https://faculty.sdu.edu.cn/wangpengwei/zh_CN/index.htm"
+        href: "https://faculty.sdu.edu.cn/wangpengwei/zh_CN/index.html"
     },{
         title: "Foo",
         href: "#"
